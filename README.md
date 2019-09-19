@@ -11,3 +11,9 @@ In a business perspective, we do not want to see the data goes up. We need to th
 3. If we can make the product safer, should we make it cheaper or more expensive?
 4. How can we attract our customers to buy our new and safer products?
 5. Which materials are better?
+
+
+# Data Question
+1. 
+2. 
+3.
