@@ -14,6 +14,6 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 
 # Data Question
-1. 
-2. 
-3.
+1. What products do customers usually buy?
+2. Which products do people get injury the most/less?
+3. Why this product can hurt people the most?
