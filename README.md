@@ -1,5 +1,5 @@
 # Injury Data Analytics
-Every year, people get an injury from different sort of house equipment such as fans, chimneys, ladders, etc, and the U.S. Consumer Product Safety Commission also tracks the emergency rooms visits to approximately 100 hospitals. The commission uses the resulting National Electronic Injury Surveillance System data to estimate national injury statistics.
+Every year, people get an injury from different sorts of house equipment such as fans, chimneys, ladders, etc, and the U.S. Consumer Product Safety Commission also tracks the emergency rooms visits to approximately 100 hospitals. The commission uses the resulting National Electronic Injury Surveillance System data to estimate national injury statistics.
 
 In a business perspective, we do not want to see the data goes up. We need to think about how can we make the product safer for people to use and most importantly to prevent the unexpected injury.
 
