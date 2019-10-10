@@ -23,3 +23,5 @@ In a business perspective, we do not want to see the data goes up. We need to th
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Sport%20in%202018.png)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20House%20in%202018.png)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Equip%20in%202018.png)
+![Alt text]
+(https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Traditional%20Vs%20Modern%20Equip.png)
