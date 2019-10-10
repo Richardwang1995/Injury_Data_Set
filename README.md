@@ -20,4 +20,5 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 
 # Data Answers
-Data about the number of injuries from sports in 2018[Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Sport%20in%202018.png)
+Data about the number of injuries from sports in 2018 
+![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Sport%20in%202018.png)
