@@ -20,7 +20,11 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 
 # Data Answers
+Below are the graphs about sport, home furnishings & fixtures and equipments in 2018
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Sport%20in%202018.png)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20House%20in%202018.png)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Number%20of%20Injury%20from%20Equip%20in%202018.png)
+
+---------------------------------------------------------------
+Here is the comparison
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Traditional%20Vs%20Modern%20Equip.png)
