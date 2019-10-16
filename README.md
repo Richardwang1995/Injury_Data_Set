@@ -20,7 +20,8 @@ Here is the link about the injury data for more information:
 1. Which products do people get injury the most?
 2. Which products do people get injury the less?
 
-Here is the pdf file I used 
+Here is the pdf file I used for creating the python bar charts:
+(https://github.com/Richardwang1995/Injury_Data_Set/blob/master/2018%20Neiss%20data%20highlights.pdf)
 
 # Data Answers
 Below are the graphs about sport, home furnishings & fixtures and equipments in 2018
