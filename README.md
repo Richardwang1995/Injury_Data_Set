@@ -38,3 +38,10 @@ Below are the graphs about sport, home furnishings & fixtures and equipments in 
 
 Here is the comparison about the traditional equipment and modern equipment (fan and fireplace)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Traditional%20Vs%20Modern%20Equip.png)
+
+
+# Industry/Civic/Academic Answer(s)
+1. How can we prevent injury? Making better products
+2. Can we make the product safer? Yes
+3. How much is the safer product? Little bit expensive but worth it
+
