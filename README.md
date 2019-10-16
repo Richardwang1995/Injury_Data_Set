@@ -9,7 +9,8 @@ In a business perspective, we do not want to see the data goes up. We need to th
 1. How can we prevent injury?
 2. Can we make the product safer?
 3. How much is the safer product?
-Here is the link about the injury data for more information: [Injury Data and Resources](https://www.cdc.gov/nchs/injury/index.htm)
+Here is the link about the injury data for more information:
+[Injury Data and Resources](https://www.cdc.gov/nchs/injury/index.htm)
 
 
 # Data Question
