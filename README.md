@@ -12,6 +12,7 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 
 Here is the link about the injury data for more information:
+
 [National Electronic Injury Surveillance System](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
 
 
@@ -34,5 +35,5 @@ Below are the graphs about sport, home furnishings & fixtures and equipments in 
 
 
 
-Here is the comparison
+Here is the comparison about the traditional equipment and modern equipment (fan and fireplace)
 ![Alt text](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/Traditional%20Vs%20Modern%20Equip.png)
