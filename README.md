@@ -16,10 +16,10 @@ Here is the link about the injury data for more information:
 
 
 # Data Question
-1. What products do customers usually buy?
-2. Which products do people get injury the most/less?
-3. Why this product can hurt people the most?
+1. Which products do people get injury the most?
+2. Which products do people get injury the less?
 
+Here is the pdf file I used 
 
 # Data Answers
 Below are the graphs about sport, home furnishings & fixtures and equipments in 2018
