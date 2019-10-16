@@ -6,11 +6,10 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 
 # Industry/Civic/Academic Question
-1. How can we prevent the injury?
+1. How can we prevent injury?
 2. Can we make the product safer?
-3. If we can make the product safer, should we make it cheaper or more expensive?
-4. How can we attract our customers to buy our new and safer products?
-5. Which materials are better?
+3. How much is the safer product?
+Here is the link about the injury data for more information: [Injury Data and Resources](https://www.cdc.gov/nchs/injury/index.htm)
 
 
 # Data Question
