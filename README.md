@@ -13,7 +13,7 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 Here is the link about the injury data for more information:
 
-[National Electronic Injury Surveillance System](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
+**[National Electronic Injury Surveillance System]**(https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
 
 
 [Injury Data and Resources](https://www.cdc.gov/nchs/injury/index.htm)
