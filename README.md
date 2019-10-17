@@ -13,10 +13,10 @@ In a business perspective, we do not want to see the data goes up. We need to th
 
 Here is the link about the injury data for more information:
 
-**[National Electronic Injury Surveillance System]**(https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
+[**National Electronic Injury Surveillance System**](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data)
 
 
-[Injury Data and Resources](https://www.cdc.gov/nchs/injury/index.htm)
+[**Injury Data and Resources**](https://www.cdc.gov/nchs/injury/index.htm)
 
 
 # Data Question
@@ -25,7 +25,7 @@ Here is the link about the injury data for more information:
 
 Here is the pdf file I used for creating the python bar charts:
 
-[2018 National Electronic Injury Surveillance System data highlights](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/2018%20Neiss%20data%20highlights.pdf)
+[**2018 National Electronic Injury Surveillance System data highlights**](https://github.com/Richardwang1995/Injury_Data_Set/blob/master/2018%20Neiss%20data%20highlights.pdf)
 
 # Data Answers
 Below are the graphs about sport, home furnishings & fixtures and equipments in 2018
